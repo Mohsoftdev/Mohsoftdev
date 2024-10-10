@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamedelfatih Seedahmed</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate QUANTUM COMPUTING, expertise in web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsoftdev&label=Profile%20views&color=0e75b6&style=flat" alt="mohsoftdev" /> </p>
 
-- 🔭 I’m currently working on My own startup **"Wait the reveal to know the name"**
+- 🔭 Diving Deep into the quantum computation and information world
+  
+-     I’m currently working on My own startup **"Wait the reveal to know the name"**
 
 - 🌱 I’m currently learning **MERN stack and Cybersecurity Fundamentals**
 
