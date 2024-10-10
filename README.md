@@ -11,9 +11,8 @@
 
 - 🤝 I’m looking for help with **finding an internship or a part time job**
 
-- 💬 Ask me about **laravel, React and Bootstrap**
+- 💬 Ask me about **Qiskit, laravel, React and Bootstrap**
 
-- ⚡ Fun fact **I never heard about web development before 🙆‍♀️ I turned 18 years old**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
